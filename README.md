@@ -36,6 +36,11 @@ The process to build and run this code is exaplined in user manuals in this repo
 
 The links to video demonstrations of this approach to detect object pose are below : 
 
+[Object Pose Estimation - video 1](https://www.youtube.com/watch?v=LivS3UBn4nI&feature=youtu.be)
+[Object Pose Estimation - video 2](https://www.youtube.com/watch?v=cyvhGSBhMF0&feature=youtu.be)
+[Object Pose Estimation - video 3](https://www.youtube.com/watch?v=DN2KgeTQbuE&feature=youtu.be)
+
+
 ## Repository
 
 ### BuildModel
