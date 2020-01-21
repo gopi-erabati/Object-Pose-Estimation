@@ -13,7 +13,7 @@
 
 This repository deals with the code and documentation of the project "3D Object Detection and Relative Localization using a 3D Sensor Embedded on a Mobile Robot".
 This work is carried at LAAS-CNRS, Toulouse, France as a part of my Master thesis internship under the supervision of Dr. Frederic Lerasale. 
-Code, report and user manuals can be found in this repository.
+Code, report and user manuals can be found in this repository. This project is licensed under the terms of the BSD 2-Clause.
 
 ## Abstract
 
